@@ -1,0 +1,33 @@
+How to install and clean uninstall VS code --> VS code documentation
+
+1. Install VS Code
+
+2. Theme
+
+--> Dracula Official
+
+--> Prettier - Code formatter
+Editor: Format On Save --> Check
+Config Formatter for JS and HTML, CSS, SCSS
+
+--> Editor: Default Formatter --> Prettier - Code Formatter
+
+--> vscode-icons
+--> vscode-pdf
+--> vscode-styled-components
+
+--> Live Server
+
+--> User Snippets
+
+3. HTML, CSS
+
+--> Auto Rename Tag (Settings --> Editor: Linked Editing - Default feature of VS Code)
+--> Color Highlight
+
+--> TODO Highlight (55. Setting up Prettier and VS Code --> 15:00)
+
+4. JS
+
+--> DotENV
+--> ESLint
